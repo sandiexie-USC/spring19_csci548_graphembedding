@@ -9,4 +9,4 @@ This repository contains functions/scripts for USC CSCI548 Spring19 group 9 on t
 
 ## Evaluation Metrics:
     1. Cosine Similarity
-    2. Hits/MMR
+    2. Hits/MR
